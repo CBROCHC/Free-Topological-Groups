@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="780" viewBox="0 0 1000 780" role="img" aria-labelledby="t d">
+<title id="t">Open subgroups of free abelian topological groups</title><desc id="d">Proof outline of Theorem 4.3 and Corollary 4.2</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2B2B2B"/></marker><marker id="ac" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A6192E"/></marker></defs>
+<rect x="1" y="1" width="998" height="778" rx="14" fill="#FFFFFF" stroke="#E7D3D7" stroke-width="2"/>
+<path d="M1,64 V15 a14,14 0 0 1 14,-14 H985 a14,14 0 0 1 14,14 V64 z" fill="#A6192E"/>
+<text x="500.0" y="41.0" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="28" text-anchor="middle" fill="#FFFFFF" font-weight="normal" font-style="normal">Open subgroups: Theorem 4.3 at a glance</text>
+<rect x="60" y="86" width="880" height="84" rx="12" fill="#E4E7FA" stroke="#6B74C9" stroke-width="2"/>
+<text x="500.0" y="121.92" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">Theorem 4.3</text>
+<text x="500.0" y="146.62" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">ρ : A(X) → H continuous homomorphism, H discrete  ⟹  ker ρ is a Graev free abelian topological group</text>
+<rect x="60" y="198" width="880" height="56" rx="12" fill="#FFEAD4" stroke="#D98A3A" stroke-width="2"/>
+<text x="500.0" y="232.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">1.  f := ρ↾X : X → Y = ρ(X)  ⟹  ∃! f̃ : A(X) → A(Y) continuous, f̃(X) = Y</text>
+<line x1="500" y1="255" x2="500" y2="273" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<rect x="60" y="274" width="880" height="56" rx="12" fill="#FFEAD4" stroke="#D98A3A" stroke-width="2"/>
+<text x="500.0" y="308.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">2.  i : Y ↪ H  ⟹  ∃! β : A(Y) → H continuous with  ρ = β ∘ f̃</text>
+<line x1="500" y1="331" x2="500" y2="349" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<rect x="60" y="350" width="880" height="56" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="500.0" y="384.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">3.  Prop. 4.3 (idempotent ε = g̃ ∘ f̃, via Prop. 4.2)  ⟹  ker f̃ is Graev free</text>
+<line x1="500" y1="407" x2="500" y2="425" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<rect x="60" y="426" width="880" height="56" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="500.0" y="460.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">4.  Lemma 4.1  ⟹  ker ρ = ker(β ∘ f̃) ≅ ker f̃ ⊕ D,  D discrete free abelian</text>
+<line x1="500" y1="483" x2="500" y2="501" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<rect x="60" y="502" width="880" height="56" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="500.0" y="536.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">5.  Lemma 4.2 + Cor. 4.1  ⟹  a direct sum of free groups is free</text>
+<line x1="500" y1="559" x2="500" y2="587" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<rect x="60" y="588" width="880" height="46" rx="12" fill="#FDE6EA" stroke="#C23B5A" stroke-width="2"/>
+<text x="500.0" y="617.93" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="21" text-anchor="middle" fill="#2B2B2B" font-weight="bold" font-style="normal">ker ρ is a Graev free abelian topological group  ∎</text>
+<rect x="60" y="656" width="880" height="92" rx="12" fill="#E4E7FA" stroke="#6B74C9" stroke-width="2"/>
+<text x="500.0" y="683.5699999999999" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">Corollary 4.2  (open subgroups)</text>
+<text x="500.0" y="708.27" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">K ≤ A(X) open  ⟹  K closed  ⟹  A(X)/K is discrete  ⟹  K = ker(π : A(X) → A(X)/K)</text>
+<text x="500.0" y="732.9699999999999" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="19" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">apply Theorem 4.3  ⟹  K is Graev free</text>
+</svg>
