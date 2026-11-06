@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="570" viewBox="0 0 980 570" role="img" aria-labelledby="t d">
+<title id="t">Existence of the free topological group</title><desc id="d">Markov–Kakutani construction via a product of Hausdorff topological groups</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2B2B2B"/></marker><marker id="ac" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A6192E"/></marker></defs>
+<rect x="1" y="1" width="978" height="568" rx="14" fill="#FFFFFF" stroke="#E7D3D7" stroke-width="2"/>
+<path d="M1,64 V15 a14,14 0 0 1 14,-14 H965 a14,14 0 0 1 14,14 V64 z" fill="#A6192E"/>
+<text x="490.0" y="41.0" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="28" text-anchor="middle" fill="#FFFFFF" font-weight="normal" font-style="normal">Existence of F(X): the product construction</text>
+<rect x="100" y="128" width="80" height="56" rx="12" fill="#E4E7FA" stroke="#6B74C9" stroke-width="2"/>
+<text x="140.0" y="164.58" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="26" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">X</text>
+<rect x="780" y="128" width="110" height="56" rx="12" fill="#FFEAD4" stroke="#D98A3A" stroke-width="2"/>
+<text x="835.0" y="164.58" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="26" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">G<tspan dy="6" font-size="19">f</tspan><tspan dy="-6"></tspan></text>
+<rect x="380" y="262" width="200" height="60" rx="12" fill="#FFFFFF" stroke="#9A8E90" stroke-width="2"/>
+<text x="480.0" y="285.6" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="20" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">∏  G<tspan dy="4" font-size="14">f</tspan><tspan dy="-4"></tspan></text>
+<text x="480.0" y="311.6" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="20" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">f ∈ B<tspan dy="4" font-size="14">X</tspan><tspan dy="-4"></tspan></text>
+<line x1="184" y1="156" x2="776" y2="156" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="480" y="146" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="italic">f  :  X → G<tspan dy="4" font-size="13">f</tspan><tspan dy="-4"></tspan></text>
+<line x1="168" y1="188" x2="378" y2="270" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="255" y="246" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="italic">Δ</text>
+<line x1="584" y1="268" x2="820" y2="190" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="735" y="254" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="italic">π<tspan dy="4" font-size="13">f</tspan><tspan dy="-4"></tspan></text>
+<rect x="330" y="350" width="300" height="50" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="480.0" y="381.93" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="21" text-anchor="middle" fill="#2B2B2B" font-weight="bold" font-style="normal">F(X) := ⟨Δ(X)⟩ ≤ ∏ G<tspan dy="5" font-size="15">f</tspan><tspan dy="-5"></tspan></text>
+<line x1="480" y1="323" x2="480" y2="349" stroke="#9A8E90" stroke-width="2" stroke-dasharray="5 4"/>
+<text x="60" y="440" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="17" text-anchor="start" fill="#4A3F41" font-weight="normal" font-style="normal">1.  B<tspan dy="4" font-size="12">X</tspan><tspan dy="-4"> : one representative f : X → G</tspan><tspan dy="4" font-size="12">f</tspan><tspan dy="-4"> per isomorphism class of continuous maps into Hausdorff topological groups</tspan></text>
+<text x="60" y="466" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="17" text-anchor="start" fill="#4A3F41" font-weight="normal" font-style="normal">2.  Give ∏ G<tspan dy="4" font-size="12">f</tspan><tspan dy="-4"> the product topology;  Δ(x) = ( f(x) ) over all f ∈ B</tspan><tspan dy="4" font-size="12">X</tspan><tspan dy="-4"></tspan></text>
+<text x="60" y="492" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="17" text-anchor="start" fill="#4A3F41" font-weight="normal" font-style="normal">3.  F(X) carries the subspace topology;  g̃ = h ∘ π<tspan dy="4" font-size="12">f</tspan><tspan dy="-4"> restricted to F(X) is the required unique extension</tspan></text>
+<text x="490.0" y="552" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="16" text-anchor="middle" fill="#6B5E61" font-weight="normal" font-style="italic">For Tychonoff X the map Δ is injective: separate points x ≠ y with a continuous f : X → ℝ</text>
+</svg>

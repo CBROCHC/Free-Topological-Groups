@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="410" viewBox="0 0 1040 410" role="img" aria-labelledby="t d">
+<title id="t">Universal properties</title><desc id="d">Commutative triangles for the free group and the free topological group</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2B2B2B"/></marker><marker id="ac" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#A6192E"/></marker></defs>
+<rect x="1" y="1" width="1038" height="408" rx="14" fill="#FFFFFF" stroke="#E7D3D7" stroke-width="2"/>
+<path d="M1,64 V15 a14,14 0 0 1 14,-14 H1025 a14,14 0 0 1 14,14 V64 z" fill="#A6192E"/>
+<text x="520.0" y="41.0" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="28" text-anchor="middle" fill="#FFFFFF" font-weight="normal" font-style="normal">Universal property: algebraic vs. topological</text>
+<rect x="30" y="88" width="470" height="300" rx="12" fill="#FBF7F7" stroke="#E7D3D7" stroke-width="2"/>
+<text x="265" y="122" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="25" text-anchor="middle" fill="#7A1223" font-weight="bold" font-style="normal">Free group Fₐ(X)</text>
+<text x="265" y="148" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="17" text-anchor="middle" fill="#6B5E61" font-weight="normal" font-style="italic">X a set  ·  H any group</text>
+<rect x="90" y="204" width="60" height="52" rx="12" fill="#E4E7FA" stroke="#6B74C9" stroke-width="2"/>
+<text x="120.0" y="237.92" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="24" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">X</text>
+<rect x="348" y="204" width="124" height="52" rx="12" fill="#FFEAD4" stroke="#D98A3A" stroke-width="2"/>
+<text x="410.0" y="237.26" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="22" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">Fₐ(X)</text>
+<rect x="380" y="314" width="60" height="52" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="410.0" y="347.92" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="24" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">H</text>
+<line x1="152" y1="230" x2="346" y2="230" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="250.0" y="218" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="italic">σ</text>
+<line x1="142" y1="258" x2="376" y2="336" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="232" y="318" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="end" fill="#2B2B2B" font-weight="normal" font-style="italic">f</text>
+<line x1="410" y1="258" x2="410" y2="312" stroke="#A6192E" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#ac)"/>
+<text x="424" y="290.0" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="start" fill="#2B2B2B" font-weight="normal" font-style="italic">∃! f̃</text>
+<text x="265" y="376" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="16" text-anchor="middle" fill="#6B5E61" font-weight="normal" font-style="normal">f̃ is the unique homomorphism with f̃ ∘ σ = f</text>
+<rect x="540" y="88" width="470" height="300" rx="12" fill="#FBF7F7" stroke="#E7D3D7" stroke-width="2"/>
+<text x="775" y="122" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="25" text-anchor="middle" fill="#7A1223" font-weight="bold" font-style="normal">Free topological group F(X)</text>
+<text x="775" y="148" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="17" text-anchor="middle" fill="#6B5E61" font-weight="normal" font-style="italic">X Tychonoff  ·  H Hausdorff topological group</text>
+<rect x="600" y="204" width="60" height="52" rx="12" fill="#E4E7FA" stroke="#6B74C9" stroke-width="2"/>
+<text x="630.0" y="237.92" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="24" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">X</text>
+<rect x="858" y="204" width="124" height="52" rx="12" fill="#FFEAD4" stroke="#D98A3A" stroke-width="2"/>
+<text x="920.0" y="237.26" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="22" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">F(X)</text>
+<rect x="890" y="314" width="60" height="52" rx="12" fill="#E0F5E0" stroke="#4C9A4C" stroke-width="2"/>
+<text x="920.0" y="347.92" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="24" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="normal">H</text>
+<line x1="662" y1="230" x2="856" y2="230" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="760.0" y="218" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="middle" fill="#2B2B2B" font-weight="normal" font-style="italic">σ  (continuous)</text>
+<line x1="652" y1="258" x2="886" y2="336" stroke="#2B2B2B" stroke-width="2" marker-end="url(#a)"/>
+<text x="742" y="318" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="end" fill="#2B2B2B" font-weight="normal" font-style="italic">f  (continuous)</text>
+<line x1="920" y1="258" x2="920" y2="312" stroke="#A6192E" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#ac)"/>
+<text x="934" y="290.0" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="18" text-anchor="start" fill="#2B2B2B" font-weight="normal" font-style="italic">∃! f̃</text>
+<text x="775" y="376" font-family="'Latin Modern Roman','STIX Two Text','Cambria','Times New Roman',serif" font-size="16" text-anchor="middle" fill="#6B5E61" font-weight="normal" font-style="normal">f̃ continuous homomorphism;  ⟨σ(X)⟩ dense in F(X)</text>
+</svg>
